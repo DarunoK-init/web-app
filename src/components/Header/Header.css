@@ -1,0 +1,11 @@
+.headcolor {
+  background-color: Blue;
+}
+#tit {
+  color: white;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a,
+.navbar-default .navbar-nav .open .dropdown-menu {
+  background-color: #3344ff;
+  color: #ffffff;
+}

@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+.logout {
+  float: right;
+  margin: 10px 0px;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.bg {
+  background-image: url(../pic/gar.jpg);
+  height: 100vh;
+  margin-left: -195px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
